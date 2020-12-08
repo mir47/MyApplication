@@ -1,2 +1,2 @@
 # MyApplication
-Empty app for testing Github Actions
+Empty app for testing CI/CD using Github Actions.
